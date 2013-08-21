@@ -8,6 +8,7 @@ gem 'rails', '3.2.13'
 gem 'pg'
 gem 'carrierwave'
 gem 'fog'
+gem 'resque', "~> 1.22.0"
 
 # Gems used only for assets and not required
 # in production environments by default.
